@@ -1,4 +1,4 @@
-FROM szewec/3.5-jdk-8-sofficebase
+FROM szewec/maven:3.5-jdk-8-sofficebase
 
 ENV OPENOFFICE_VERSION=4.1.4
 ENV OPENOFFICE_VERSION_MAJOR=4
